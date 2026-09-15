@@ -4,6 +4,7 @@ Akan menggunakan Automatic Voltage Regulator (AVR) untuk menunjukkan closed-loop
 kategori 'Controller / Actuator', 'Plant', dan 'Feedback Elements'.
 
 Berikut adalah gambar diagram yang akan digunakan yaitu flowchart closed-loop system:
+
 <img width="790" height="528" alt="SKD Flowchart" src="https://github.com/user-attachments/assets/fbf018a9-52df-4a0f-8a73-30aecd7b7d7b" />
 
 
@@ -16,6 +17,7 @@ lonjakan pada suatu power grid, makanya regulasi voltage itu dibutuhkan supaya k
 (Open-loop is not necesarilly bad if compared against closed-loop, it's just the situation that calls for closed-loop)
 
 Berikut adalah gambar diagram untuk flowchart closed-loop system bagi AVR serta referensinya:
+
 <img width="1027" height="1248" alt="SKD Flowchart (1)" src="https://github.com/user-attachments/assets/a7118efd-06ec-424b-90cd-cc5b03c74e89" />
 
 [#] Vref (reference): Ini merupakan nilai tegangan yang diinginkan, biasanya diatur dengan potensiometer atau digital screen pada sistem modern.
