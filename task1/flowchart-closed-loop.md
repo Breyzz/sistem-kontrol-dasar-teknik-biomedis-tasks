@@ -16,7 +16,7 @@ lonjakan pada suatu power grid, makanya regulasi voltage itu dibutuhkan supaya k
 (Open-loop is not necesarilly bad if compared against closed-loop, it's just the situation that calls for closed-loop)
 
 Berikut adalah gambar diagram untuk flowchart closed-loop system bagi AVR serta referensinya:
-<img width="1027" height="1248" alt="SKD Flowchart (1)" src="https://github.com/user-attachments/assets/e3d6b074-1f5a-49fc-a36c-566861b610b7" />
+<img width="1027" height="1248" alt="SKD Flowchart (1)" src="https://github.com/user-attachments/assets/a7118efd-06ec-424b-90cd-cc5b03c74e89" />
 
 [#] Vref (reference): Ini merupakan nilai tegangan yang diinginkan, biasanya diatur dengan potensiometer atau digital screen pada sistem modern.
 [#] Comparator: Komponen ini digambarkan sebagai junction antara input dengan komponen umpan balik yang memiliki fungsi untuk mengurangkan nilai tegangan referensi dengan tegangan yang terdeteksi oleh komponen umpan balik untuk memberikan error signal yang membantu menghasilkan tegangan yang semestinya.
